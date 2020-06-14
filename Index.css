@@ -1,0 +1,140 @@
+body{
+    background-color:skyblue;
+    background-size:100%;
+    margin:0;
+    padding:0;
+}
+#clear2{
+    width:100%;
+    background-color:yellow;
+    position:fixed;
+    height:55px;
+    top:0px;
+    font-size:45px;
+    margin-top:1%;
+}
+#clear{
+    width:100%;
+    background-color:yellow;
+    height:50px;
+    position:fixed;
+    bottom:10px;
+    font-size:25px;
+    color:red;
+}
+#formstyle{
+position:fixed;
+top:35%;
+width:100%;
+background-color:blue;
+bottom:10%;
+height:50%;
+}
+.input{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:17vh;
+    right:0%;
+    background-color:lightgreen;
+    font-weight:900;
+    font-size:20px;
+}
+.inputs{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:27vh;
+    right:0%;
+}
+.input9{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:37vh;
+    right:0%;
+}
+.input6{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:47vh;
+    right:0%;
+}
+.input3{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:57vh;
+    right:0%;
+}
+.input0{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:17vh;
+    right:34.5%;
+}
+.input-{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:27vh;
+    right:34.5%;
+}
+.input8{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:37vh;
+    right:34.5%;
+}
+.input5{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:47vh;
+    right:34.5%;
+}
+.input2{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:57vh;
+    right:34.5%;
+}
+.inputd{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:17vh;
+    left:0%;
+}
+.inputp{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:27vh;
+    left:0%;
+}
+.input7{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:37vh;
+    left:0%;
+}
+.input4{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:47vh;
+    left:0%;
+}
+.input1{
+    width:30%;
+    position:fixed;
+    height:5vh;
+    bottom:57vh;
+    left:0%;
+}
