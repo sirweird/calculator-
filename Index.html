@@ -1,1 +1,29 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>my calculator</title>
+    </head>
+    <body>
+       <div id="formstyle">
+           <form name="forms">
+               <input type="text" name="answer" id="clear2"><br/><br />
+               <input class="input1" type="button" value="1" onclick="forms.answer.value+='1'">
+    <input class="input2" type="button" value="2" onclick="forms.answer.value+='2'">
+    <input class="input3" type="button" value="3" onclick="forms.answer.value+='3'"><br /><br />
+    <input class="input4" type="button" value="4" onclick="forms.answer.value+='4'">
+    <input class="input5" type="button" value="5" onclick="forms.answer.value+='5'">
+    <input class="input6" type="button" value="6" onclick="forms.answer.value+='6'"><br /><br />
+    <input class="input7" type="button" value="7" onclick="forms.answer.value+='7'">
+    <input class="input8" type="button" value="8" onclick="forms.answer.value+='8'">
+    <input class="input9" type="button" value="9" onclick="forms.answer.value+='9'"><br /><br />
+    <input class="inputp" type="button" value="+" onclick="forms.answer.value+='+'">
+    <input class="input-" type="button" value="-" onclick="forms.answer.valuem='-'">
+    <input class="inputs" type="button" value="*" onclick="forms.answer.value+='*'"><br /><br />
+    <input class="inputd" type="button" value="/" onclick="forms.answer.value+='/'">
+    <input class="input0" type="button" value="0" onclick="forms.answer.value+='0'">
+    <input class="input" type="button" value="=" onclick="forms.answer.value=eval(forms.answer.value)"><br /><br />
+    <input type="button" value="clear all" onclick="forms.answer.value=''" id="clear">
+           </form>
+       </div> 
+    </body>
+</html>
